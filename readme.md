@@ -1,10 +1,5 @@
 
 https://www.kaggle.com/code/dansbecker/how-models-work 
-
-Sure, I can include a field to indicate the number of features that are out of standard. A good field name for this could be `nonCompliantFeatureCount`. I will also ensure that the `suggestedValues` are actual recommendations rather than the current values.
-
-Here is the updated JSON template and a full example:
-
 ### JSON Template
 ```json
 {
