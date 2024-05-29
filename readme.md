@@ -2,6 +2,12 @@
 https://www.kaggle.com/code/dansbecker/how-models-work 
 Title Length, Meta Description, Alt Text for Images, Page Load Speed, Backlinks, Internal Linking, Content Quality, Mobile-Friendliness, SSL Certification (HTTPS), URL Structure, Headings (H1, H2, H3), Social Signals, Structured Data Markup (Schema), Robots.txt, XML Sitemap, Canonical Tags, Image Optimization, User Engagement Metrics, Local SEO, Broken Links
 
+
+"Please avoid suggesting improvements for factors like keyword density or outbound links, as I'm already focused on those areas."
+
+
+"Analyze this webpage (URL) and focus on recommending improvements for the following SEO factors: Title Length, Meta Description, Alt Text for Images, Page Load Speed, Backlinks, Internal Linking, Content Quality, Mobile-Friendliness, SSL Certification (HTTPS), URL Structure, Headings (H1, H2, H3), Social Signals, Structured Data Markup (Schema), Robots.txt, XML Sitemap, Canonical Tags, Image Optimization.  Please disregard any other SEO factors in your recommendations."
+ 
 ### Full Example
 ```json
 {
