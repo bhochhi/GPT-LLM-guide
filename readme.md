@@ -1,25 +1,6 @@
 
 https://www.kaggle.com/code/dansbecker/how-models-work 
-### JSON Template
-```json
-{
-  "url": "string",
-  "auditDate": "string",
-  "nonCompliantFeatureCount": "integer",
-  "features": [
-    {
-      "featureName": "string",
-      "featureCategory": "string",
-      "featureStatus": "OK | NOT_OK",
-      "currentValue": "string",
-      "standardRecommendation": "string",
-      "suggestedValues": ["string", "string", "string"],
-      "rationale": "string",
-      "priority": "High | Medium | Low"
-    }
-  ]
-}
-```
+Title Length, Meta Description, Alt Text for Images, Page Load Speed, Backlinks, Internal Linking, Content Quality, Mobile-Friendliness, SSL Certification (HTTPS), URL Structure, Headings (H1, H2, H3), Social Signals, Structured Data Markup (Schema), Robots.txt, XML Sitemap, Canonical Tags, Image Optimization, User Engagement Metrics, Local SEO, Broken Links
 
 ### Full Example
 ```json
